@@ -4,7 +4,7 @@ title: Pod Lifecycle Event Generator (PLEG)
 full_link: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/node/pod-lifecycle-event-generator.md
 date: 2020-02-09
 short_description: >
- The Pod Lifecycle Event Generator monitors the state of the Pod containers, creating events when changes occur.
+ The Pod Lifecycle Event Generator (PLEG) monitors the state of the Pods' containers, creating events when changes occur.
 
 related:
  - kubelet
@@ -13,7 +13,7 @@ tags:
  - architecture
 ---
 
- The Pod Lifecycle Event Generator (PLEG) monitors the state of the Pod containers, creating events when changes occur.
+ The Pod Lifecycle Event Generator (PLEG) monitors the state of the Pods' containers, creating events when changes occur.
 
 <!--more--> 
 
